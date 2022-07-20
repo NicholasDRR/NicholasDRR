@@ -3,7 +3,7 @@
 ### Sobre mim :
 > * 🏠 São Paulo, SP - Brasil.
 > * 👶 Nascido em 10/2004.
-> * 🐍 Atualmente Estudando **Python**.
+> * 🐍 Atualmente estudando **Python**.
 > * 🎓 Estudando Análise e Desenvolvimento de Sistemas na [**Universidade Cruzeiro do Sul**](https://www.cruzeirodosul.edu.br/).
 > * 🛠️ Em busca de **Vagas** na área de **Desenvolvimento**.
 > 
