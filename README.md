@@ -17,5 +17,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-ribeiro-py)](https://www.linkedin.com/in/nicholas-ribeiro-py)
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicholasreis48@gmail.com)](mailto:nicholasreis48@gmail.com)
 <div>
-  ![Snake animation](https://github.com/NicholasDRR/NicholasDRR/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NicholasDRR/NicholasDRR/blob/output/github-contribution-grid-snake.svg)
 </div>
