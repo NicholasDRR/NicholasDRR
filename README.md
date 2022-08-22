@@ -2,7 +2,7 @@
 
 ### Sobre mim :
 > * 🏠 São Paulo, SP - Brasil.
-> * 🐍 Atualmente aprendendo **Django**
+> * 🐍 Atualmente aprendendo **Django** [**Universidade Santo Amaro**](https://www.unisa.br/).
 > * 🎓 Estudando Análise e Desenvolvimento de Sistemas na [**Universidade Santo Amaro**](https://www.unisa.br/).
 > * 🛠️ Em busca de **Vagas** na área de **Desenvolvimento**.
 > 
