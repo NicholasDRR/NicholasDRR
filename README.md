@@ -17,7 +17,7 @@
 > * ![VSCode](https://img.shields.io/badge/-VSCode-181717?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF)
 
 ### 📚 Linguagens: 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasDRR&layout=hide_border=true&theme=dark&show_icons=true&hide=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasDRR&layout=hide_border=true&theme=dark&show_icons=true&hide=Jupyter%20Notebook)
 
 ### 🖥️ Commits: 
 ![Snake animation](https://github.com/NicholasDRR/NicholasDRR/blob/output/github-contribution-grid-snake.svg)
