@@ -8,7 +8,7 @@
 > 
 ### 🧠 Conhecimentos :
 ### 📈 Back:
-> * ![Python](https://img.shields.io/badge/-Python-181717?&logo=Python&logoColor=FFFFFF) ![Django](https://img.shields.io/badge/-Django-181717?&logo=Django&logoColor=FFFFFF) ![MySql](https://img.shields.io/badge/-MySql-181717?&logo=MySQL&logoColor=FFFFFF) 
+> * ![Python](https://img.shields.io/badge/-Python-181717?&logo=Python&logoColor=FFFFFF) ![Django](https://img.shields.io/badge/-Django-181717?&logo=Django&logoColor=FFFFFF) ![MySQL](https://img.shields.io/badge/-MySql-181717?&logo=MySQL&logoColor=FFFFFF) 
 ### 🎨 Front:
 > * ![HTML5](https://img.shields.io/badge/-HTML-181717?&logo=HTML5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/-CSS-181717?&logo=CSS3&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/-JS-181717?&logo=JavaScript&logoColor=FFFFFF) ![Bootstrap](https://img.shields.io/badge/-BS-181717?&logo=Bootstrap&logoColor=FFFFFF)
 ### 🔧 Ferramentas:
