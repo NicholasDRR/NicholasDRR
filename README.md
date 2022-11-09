@@ -2,7 +2,7 @@
 
 ### Sobre mim :
 > * 🏠 São Paulo, SP - Brasil.
-> * 🐍 Atualmente estudando [**Dart**](https://github.com/NicholasDRR/Django-exs/).
+> * 🐍 Atualmente estudando [**Dart**](https://github.com/NicholasDRR/Exs-Dart).
 > * 🎓 Cursando Análise e Desenvolvimento de Sistemas na [**Universidade Santo Amaro**](https://www.unisa.br/).
 > * 🛠️ Em busca de **Vagas** na área de **Desenvolvimento**.
 > 
