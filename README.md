@@ -2,8 +2,8 @@
 
 ### Sobre mim :
 > * 🏠 São Paulo, SP - Brasil.
-> * 🐍 Atualmente estudando [**Java**]().
-> * 🎓 Cursando Análise e Desenvolvimento de Sistemas na [**Universidade Santo Amaro**](https://www.unisa.br/).
+> * 🐍 Atualmente estudando [**Django**](https://github.com/NicholasDRR/Exs-Django).
+> * 🎓 Cursando Engenharia de Software na [**Universidade Cesumar**](https://www.unicesumar.edu.br/home/).
 > * 🛠️ Em busca de **Vagas** na área de **Desenvolvimento**.
 > 
 ### 🧠 Conhecimentos :
