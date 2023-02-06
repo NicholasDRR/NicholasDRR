@@ -1,8 +1,8 @@
-# Olá, me chamo **Nicholas Ribeiro** 🧑‍💻
+🖌️# Olá, me chamo **Nicholas Ribeiro** 🧑‍💻
 
 ### Sobre mim :
 > * 🏠 São Paulo, SP - Brasil.
-> * 🐍 Atualmente estudando [**Front-end**](https://github.com/NicholasDRR/Exs-Django).
+> * 🖌️ Atualmente estudando [**Front-end**](https://github.com/NicholasDRR/Exs-Django).
 > * 🎓 Cursando Engenharia de Software na [**Universidade Cesumar**](https://www.unicesumar.edu.br/home/).
 > * 🛠️ Em busca de **Vagas** na área de **Desenvolvimento**.
 > 
