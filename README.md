@@ -1,4 +1,4 @@
-🖌️# Olá, me chamo **Nicholas Ribeiro** 🧑‍💻
+# Olá, me chamo **Nicholas Ribeiro** 🧑‍💻
 
 ### Sobre mim :
 > * 🏠 São Paulo, SP - Brasil.
