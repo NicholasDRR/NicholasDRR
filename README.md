@@ -19,9 +19,10 @@
 ### 📚 Linguagens: 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasDRR&layout=hide_border=true&theme=dark&show_icons=true&hide=Jupyter%20Notebook)
 
+### 🤓 Commits: 
+![Snake animation](https://github.com/NicholasDRR/NicholasDRR/blob/output/github-contribution-grid-snake.svg)
 
 ## **Entre em Contato!** 😉
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-ribeiro-py)](https://www.linkedin.com/in/nicholas-ribeiro-py)
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicholasreis48@gmail.com)](mailto:nicholasreis48@gmail.com)
 
