@@ -2,7 +2,7 @@
 
 ### Sobre mim :
 > * 🏠 São Paulo, SP - Brasil.
-> * 🖌️ Atualmente estudando [**Front-end**](https://github.com/NicholasDRR/Front-end).
+> * 🖌️ Atualmente estudando [**C#**](https://github.com/NicholasDRR/Exs-Csharp).
 > * 🎓 Cursando Engenharia de Software na [**Universidade Cesumar**](https://www.unicesumar.edu.br/home/).
 > * 🛠️ Em busca de **Vagas** na área de **Desenvolvimento**.
 > 
