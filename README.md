@@ -17,6 +17,11 @@
 > * ![VSCode](https://img.shields.io/badge/-VSCode-181717?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF)
 
 
+<br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicholasDRR&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="NicholasDRR" />
+
+
+
 ### 🖥️ Commits: 
 ![Snake animation](https://github.com/NicholasDRR/NicholasDRR/blob/output/github-contribution-grid-snake.svg)
 
