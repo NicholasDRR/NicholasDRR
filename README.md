@@ -1,4 +1,4 @@
-# Hello, my name is **Nicholas Ribeiro** 🧑‍💻
+# **Hey there, I'm Nicholas Ribeiro!** 🧑‍💻
 
 ### About me :
 > * 🏠 São Paulo, SP - Brasil.
