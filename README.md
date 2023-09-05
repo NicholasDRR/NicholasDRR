@@ -2,7 +2,7 @@
 
 ### About me :
 > * 🏠 São Paulo, SP - Brasil.
-> * 🖌️  I’m currently learning [**C#**](https://github.com/NicholasDRR/Exs-Csharp).
+> * 🖌️ Currently learning [**C#**](https://github.com/NicholasDRR/Exs-Csharp).
 > * 🎓 Studying Software Engineering at [**Universidade Cesumar**](https://www.unicesumar.edu.br/home/).
 > * 🛠️ In search of **Opportunities** in the **Development** field.
 
