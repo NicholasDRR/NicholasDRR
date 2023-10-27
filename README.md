@@ -13,7 +13,7 @@
 ##
 
 ### 🖥 DataBases
-> * ![MySQL](https://img.shields.io/badge/-MySQL-181717?&logo=MySQL&logoColor=FFFFFF) ![MongoDB](https://img.shields.io/badge/-MongoDB-181717?&logo=MongoDB&logoColor=FFFFFF)
+> * ![MySQL](https://img.shields.io/badge/-MySQL-181717?&logo=MySQL&logoColor=FFFFFF) ![MongoDB](https://img.shields.io/badge/-MongoDB-181717?&logo=MongoDB&logoColor=FFFFFF)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?&logo=PostgreSQL&logoColor=FFFFFF)
 ##
  
 ### 📙 Frameworks & Librarys
